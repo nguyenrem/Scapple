@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="643BD8F5-3595-4261-B27D-A0874C28AE82">
+   <Notes>
+      <Note Position="22.7,120.4" Width="339.844" FontSize="12" ID="0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>namespace EA.Application.Partner.DTOs.AuctionModels;</String>
+         <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
+         <PointsToNoteIDs>1-2</PointsToNoteIDs>
+      </Note>
+      <Note Position="435.2,100.8" Width="177.893" FontSize="12" ID="1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>public class CategoryViewDto</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Position="435.9,136.0" Width="184.375" FontSize="12" ID="2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>public class CategoryBrandDto</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>1-2</AutoFit>
+   <NoteStyles>
+      <Style Name="09 Inactive" ID="23877491-9917-48EB-B1CB-F770BDDAE56E" AffectSticky="Yes" AffectTextColor="No" AffectSize="No" AffectFade="Yes" AffectAlignment="No" AffectFontStyle="No" AffectNoteBody="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderStyle>Rounded</BorderStyle>
+         <Size>156.3,21.1</Size>
+         <Faded>Yes</Faded>
+         <FontSize>11.0</FontSize>
+      </Style>
+      <Style Name="10 Size Note" ID="A174F2BA-B8CD-4EB7-9E61-CE482A0DD0D1" AffectSticky="Yes" AffectTextColor="No" AffectSize="Yes" AffectFade="No" AffectAlignment="No" AffectFontStyle="No" AffectNoteBody="No">
+         <BorderStyle>Rounded</BorderStyle>
+         <Size>398.9,53.1</Size>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style Name="01 Heading 1" ID="32254BB8-9828-4A95-ACAE-26C27C66A208" AffectSticky="Yes" AffectTextColor="Yes" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectFontStyle="Yes" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderStyle>Rounded</BorderStyle>
+         <BorderColor>0.043137 0.356863 0.466667</BorderColor>
+         <TextColor>0.043137 0.356863 0.466667</TextColor>
+         <Size>81.0,26.6</Size>
+         <IsBold>Yes</IsBold>
+         <FontSize>16.0</FontSize>
+      </Style>
+      <Style Name="12 Height" ID="A2206768-AB5A-4FAA-A1A7-5982136A477F" AffectSticky="Yes" AffectTextColor="Yes" AffectSize="Yes" AffectFade="No" AffectAlignment="No" AffectFontStyle="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderStyle>Rounded</BorderStyle>
+         <FillColor>0.0 0.0 0.0</FillColor>
+         <TextColor>0.0 0.0 0.0</TextColor>
+         <Size>20.4,12994.5</Size>
+         <FontSize>11.0</FontSize>
+      </Style>
+      <Style Name="11 Width" ID="91685142-CBC8-4DA1-9DD0-40A50FC75F49" AffectSticky="Yes" AffectTextColor="Yes" AffectSize="Yes" AffectFade="No" AffectAlignment="No" AffectFontStyle="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderStyle>Rounded</BorderStyle>
+         <FillColor>0.0 0.0 0.0</FillColor>
+         <TextColor>0.0 0.0 0.0</TextColor>
+         <Size>7549.7,21.1</Size>
+         <FontSize>11.0</FontSize>
+      </Style>
+      <Style Name="02 Heading 2" ID="FA039026-7FDE-4F17-AA92-C2A795D26196" AffectSticky="Yes" AffectTextColor="Yes" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectFontStyle="Yes" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.062745 0.482353 0.619608</BorderColor>
+         <TextColor>0.062745 0.482353 0.619608</TextColor>
+         <Size>74.5,25.0</Size>
+         <IsBold>Yes</IsBold>
+         <FontSize>14.0</FontSize>
+      </Style>
+      <Style Name="06 Nothing" ID="BDD8C9A8-F0D8-43E5-B5DE-A62F458FA995" AffectSticky="No" AffectTextColor="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectFontStyle="Yes" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+         <Size>79.5,21.1</Size>
+         <FontSize>11.0</FontSize>
+      </Style>
+      <Style Name="05 Question" ID="1A6EED9F-D8F3-483A-8470-54A948BCEDDC" AffectSticky="Yes" AffectTextColor="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectFontStyle="Yes" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderStyle>Rounded</BorderStyle>
+         <BorderColor>0.862745 0.137255 0.403922</BorderColor>
+         <FillColor>0.929412 0.572549 0.701961</FillColor>
+         <Size>64.6,21.1</Size>
+         <FontSize>11.0</FontSize>
+      </Style>
+      <Style Name="13 Keyword" ID="42355229-FFAE-4B23-A244-1B0B56224DC2" AffectSticky="Yes" AffectTextColor="Yes" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectFontStyle="Yes" AffectNoteBody="Yes">
+         <BorderThickness>2</BorderThickness>
+         <BorderStyle>Jagged</BorderStyle>
+         <BorderColor>0.0 0.0 0.0</BorderColor>
+         <FillColor>0.501961 0.501961 0.501961</FillColor>
+         <TextColor>0.901961 0.901961 0.901961</TextColor>
+         <Size>156.3,21.1</Size>
+         <FontSize>11.0</FontSize>
+      </Style>
+      <Style Name="08 Note" ID="D37A60A3-743A-4D5B-A11D-6E4D536D13B4" AffectSticky="No" AffectTextColor="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectFontStyle="Yes" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+         <Size>69.0,21.1</Size>
+         <FontSize>11.0</FontSize>
+      </Style>
+      <Style Name="07 Ideal" ID="EB263E65-F5C1-483F-9098-8AA1F13BD71D" AffectSticky="No" AffectTextColor="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectFontStyle="Yes" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.3991 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+         <Size>40.1,21.1</Size>
+         <FontSize>11.0</FontSize>
+      </Style>
+      <Style Name="04 Solution" ID="BC860392-A9E2-4F89-A5E6-23BCEB0CC8EB" AffectSticky="No" AffectTextColor="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectFontStyle="Yes" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderStyle>Rounded</BorderStyle>
+         <BorderColor>0.035294 0.32549 0.913725</BorderColor>
+         <FillColor>0.74902 0.937255 0.984314</FillColor>
+         <Size>69.5,21.1</Size>
+         <FontSize>11.0</FontSize>
+      </Style>
+      <Style Name="03 Heading 3" ID="2528888F-333E-428B-9810-A03566A9914A" AffectSticky="Yes" AffectTextColor="Yes" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectFontStyle="Yes" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.078431 0.560784 0.807843</BorderColor>
+         <TextColor>0.078431 0.560784 0.807843</TextColor>
+         <Size>64.8,21.9</Size>
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988373 0.949905</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+   </UISettings>
+   <PrintSettings TopMargin="12.000000" BottomMargin="12.000000" Orientation="Portrait" HorizontallyCentered="Yes" PaperSize="-1.000000,-1.000000" VerticallyCentered="Yes" PaperType="na-letter" VerticalPagination="Auto" Collates="Yes" RightMargin="12.000000" PagesAcross="1" PagesDown="1" HorizontalPagination="Clip" ScaleFactor="1.000000" LeftMargin="12.000000"/>
+</ScappleDocument>
